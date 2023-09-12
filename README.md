@@ -45,9 +45,9 @@ with a reddit data set
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Computational-Intelligence-Data-Clustering-Based-On-Key-Identification.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Computational-Intelligence-Data-Clustering-Based-On-Key-Identification/blob/master/LICENSE
 
 
 <!-- Linkedin -->
