@@ -33,9 +33,9 @@ with a reddit data set
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Computational-Intelligence-Data-Clustering-Based-On-Key-Identification.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Computational-Intelligence-Data-Clustering-Based-On-Key-Identification/stargazers
 
 
 <!-- Issues -->
